@@ -1,0 +1,1 @@
+docker run -d -p 55555:55555 eclipse/kuksa-val

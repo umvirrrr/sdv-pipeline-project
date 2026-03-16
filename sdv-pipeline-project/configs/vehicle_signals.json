@@ -1,0 +1,9 @@
+{
+  "vehicle": "car1",
+  "signals": [
+    "speed",
+    "steering_angle",
+    "battery_level",
+    "tire_pressure"
+  ]
+}

@@ -1,0 +1,1 @@
+docker run -d -p 7447:7447 eclipse/zenoh
